@@ -1,0 +1,5 @@
+# Env vars should be safe
+.env
+
+# Dev env
+.idea/
